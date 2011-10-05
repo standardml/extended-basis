@@ -1,0 +1,10 @@
+backward compatible with basis library
+all structures have type t
+sets - approximate search, cursors
+maps - ditto
+real to string with - instead of ~
+arbitrary precision math library
+lists - sort, unfold
+vector - functors, sort, binary search, unfold, append, FixedInt, toList
+array - functors, sort, binary search, unfold, append, FixedInt, toList
+posix - shared memory, iconv

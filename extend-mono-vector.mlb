@@ -1,0 +1,12 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+	unextended-mono-vector.mlb
+	unextended-mono-vector-slice.mlb
+	unextended-mono-array.mlb
+	unextended-mono-array-slice.mlb
+	mono-vector.mlb
+	shadow.mlb
+	mono-array-or-vector.mlb
+in
+	extend-mono-vector.sml
+end

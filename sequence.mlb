@@ -1,0 +1,6 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+	shadow-t.mlb
+in
+	sequence.sml
+end

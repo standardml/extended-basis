@@ -1,0 +1,5 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+in
+	signature UNEXTENDED_MONO_VECTOR = MONO_VECTOR
+end

@@ -1,0 +1,31 @@
+Extended Standard ML Basis Library
+
+This library contains extensions to the Standard ML Basis Library.
+Except for the additional structures, signatures, types, and values,
+it is backward compatible with the Standard ML Basis Library. However
+it is not "compliant" with the Standard ML Basis Library specification,
+because the specification prohibits extensions. But in practice, nearly
+all code that relies on the Basis Library will operate correctly with
+this extended library.
+
+Currently only MLton is supported. Help with porting to other
+implementations of Standard ML is welcome.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see http://www.gnu.org/licenses/.
+
+This and future versions of the Extended Standard Basis may be found at:
+http://yumegakanau.org/code/extended-basis/
+
+Contact tsuyoshi@yumegakanau.org with any comments, questions,
+bug reports, additions, etc.

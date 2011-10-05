@@ -1,0 +1,5 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+in
+	signature UNEXTENDED_MONO_ARRAY = MONO_ARRAY
+end

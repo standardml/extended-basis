@@ -1,0 +1,8 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+	shadow.mlb
+	ordered.mlb
+	ordered-map.mlb
+in
+	tree.sml
+end
